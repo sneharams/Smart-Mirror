@@ -1,0 +1,9 @@
+Yes    'Sriracha', cursive
+No  'PT Sans Narrow', sans-serif
+No  'Fjalla One', sans-serif
+No   'Arima Madurai', cursive
+No  'Shadows Into Light', cursive
+No  'Orbitron', sans-serif
+No  'Dancing Script', cursive
+No  'Amatic SC', cursive
+No  'Architects Daughter', cursive;
